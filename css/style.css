@@ -1,0 +1,17 @@
+.block {
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.displayN {
+    display: none;
+}
+
+.Click, .Hover {
+    width: 100px;
+    background-color: grey;
+    margin-top: 30px;
+    margin-left: 40px;
+}
